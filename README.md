@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aunyia-Fields
+- 👋 Hi, I’m @shawnSCAD
 - 👀 I’m interested in ... learning to code, producing music, video games, nature and more!
 - 🌱 I’m currently learning ... HTML & CSS (the basics)
 - 💞️ I’m looking to collaborate on ... bulding personalized websites for those in my ProudGeek's commnunity
